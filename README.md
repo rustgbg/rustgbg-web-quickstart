@@ -7,7 +7,7 @@ You need a Rust toolchain to begin. Use [rustup](https://rustup.rs) for best res
 ## Running
 
 ```
-cargo install diesel_cli
+cargo install diesel_cli --no-default-features --features sqlite
 diesel migration run
 cargo run
 ```
