@@ -2,7 +2,7 @@
 
 ## Installing Rust
 
-You need a Rust toolchain to begin. Use (rustup)[https://rustup.rs] for best results.
+You need a Rust toolchain to begin. Use [rustup](https://rustup.rs) for best results.
 
 ## Running
 
