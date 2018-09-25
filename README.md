@@ -7,7 +7,7 @@ You need a Rust toolchain to begin. Use [rustup](https://rustup.rs) for best res
 ## Running
 
 ```
-cargo install diesel-cli
+cargo install diesel_cli
 diesel migration run
 cargo run
 ```
